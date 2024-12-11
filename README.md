@@ -1,5 +1,6 @@
 # BatRAT 3.0
 🖥️ Fast, light-weight remote administration tool made purely in Batch, fully undetected by most anti-malware programs.
+Some modules were made in NirCMD and PowerShell.
 
 Note: The source code will be never released due to the potential of abuse. I do not want my program to be abused by threat actors to cause problems. I am making this GitHub as a documentation for my project.
 
@@ -29,8 +30,8 @@ There are 2 versions of BatRAT;
 - Screenshot on Discord Webhook
 - Clipboard content
 - System info (GPU, CPU, RAM, registered owner...)
-- Downloading from URL
-- Uploading to Discord Webhook
+- Downloading from URL to target machine
+- File uploading to Discord Webhook from target machine
 - Remote command-line (1:1 to default command line)
 - Shutdown, restart, logout
 - Display message boxes, tray notifications
@@ -42,7 +43,7 @@ There are 2 versions of BatRAT;
   - Registry
   - Start-menu folder
   - Windows service
-- Logging keystrokes and send to Discord Webhook
+- Logging keystrokes and send to Discord Webhook 
 - Set attributes of BatRAT files to hidden, system
 - Dump WiFi Passwords and SSID's
 
@@ -62,3 +63,7 @@ There are 2 versions of BatRAT;
   - **BitDefender**: On previous versions was blocked due to attempt to run in a hidden mode, if it was not running hidden, it worked without single issue, on newest version is detected as a Generic Spyware.
   - **Windows Defender**: Fully bypassed.
   - **AVG**: Fully bypassed.
+
+---
+
+## 📷 Screenshots
