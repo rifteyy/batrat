@@ -22,6 +22,8 @@ There are 2 versions of BatRAT;
 ---
 
 ## 🛠️ Features 
+- Proxy, datacenter, VM detection
+- Send IP address along with city, longitude, latitude on Discord webhook
 - Fully stealth run in background with minimal usage
 - Screenshot on Discord Webhook
 - Clipboard content
