@@ -67,3 +67,7 @@ There are 2 versions of BatRAT;
 ---
 
 ## 📷 Screenshots
+![Screenshot of BatRAT(images/Screenshot_1.png)
+![Screenshot of BatRAT(images/Screenshot_3.png)
+![Screenshot of BatRAT(images/Screenshot_4.png)
+![Screenshot of BatRAT(images/Screenshot_5.png)
