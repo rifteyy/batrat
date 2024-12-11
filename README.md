@@ -22,7 +22,8 @@ There are 2 versions of BatRAT;
 ---
 
 ## 🛠️ Features 
-- Proxy, datacenter, VM detection
+- Proxy, datacenter, VPN, Tor detection
+- Virtual Machine detection
 - Send IP address along with city, longitude, latitude on Discord webhook
 - Fully stealth run in background with minimal usage
 - Screenshot on Discord Webhook
@@ -56,7 +57,7 @@ There are 2 versions of BatRAT;
 
 ## 🔒 Detection status
   - **ESET**: Fully bypassed with all modules including Live Grid enabled. RAT was able to work without single issuse.
-  - **Avast**: Fully bypassed. RAT was able to work without single issue.
+  - **Avast**: Fully bypassed. RAT was able to work without a single issue.
   - **Avira**: Fully bypassed.
   - **BitDefender**: On previous versions was blocked due to attempt to run in a hidden mode, if it was not running hidden, it worked without single issue, on newest version is detected as a Generic Spyware.
   - **Windows Defender**: Fully bypassed.
