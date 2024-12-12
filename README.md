@@ -57,7 +57,7 @@ There are 2 versions of BatRAT;
 ---
 
 ## 🔒 Detection status
-  - **ESET**: Fully bypassed with all modules including Live Grid enabled. RAT was able to work without single issuse.
+  - **ESET**: Fully bypassed with all modules including Live Grid enabled. RAT was able to work without single issue. Note: After 3 days, ESET is now detecting as BAT/Agent.DO. This is probably caused by Live Grid automatic file submitting system.
   - **Avast**: Fully bypassed. RAT was able to work without a single issue.
   - **Avira**: Fully bypassed.
   - **BitDefender**: On previous versions was blocked due to attempt to run in a hidden mode, if it was not running hidden, it worked without single issue, on newest version is detected as a Generic Spyware.
