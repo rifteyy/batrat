@@ -61,7 +61,7 @@ There are 2 versions of BatRAT;
 ---
 
 ## 🔒 Detection status
-  - ✅ **Avast**: Fully bypassed. RAT was able to work without a single issue.
+  - ✅ **Avast**: Fully bypassed.
   - ✅ **Avira**: Fully bypassed.
   - ✅ **Windows Defender**: Fully bypassed.
   - ✅ **AVG**: Fully bypassed.
@@ -69,6 +69,7 @@ There are 2 versions of BatRAT;
   - ✅ **ESET Online Scanner**: Fully bypassed. I have no idea how that happened, since it does not bypass normal ESET.
   - ✅ **HitmanPro Scanner**: Fully bypassed.
   - ✅ **Malwarebytes scan & realtime protection**: Fully bypassed.
+  - ✅ **Sophos Home Security**: Fully bypassed.
   - ⚠️ **ESET Endpoint Antivirus**: Fully bypassed with all modules including Live Grid enabled. RAT was able to work without single issue. Note: After 3 days, ESET is now detecting as BAT/Agent.DO. This is probably caused by Live Grid automatic file submitting system.
   - ❌ **BitDefender**: Every version of BatRAT 3.0 blocked as Generic.PySpy.B. Hats off to BitDefender's heuristic analyze.
 
