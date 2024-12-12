@@ -4,6 +4,10 @@ Some modules were made in NirCMD and PowerShell.
 
 Note: The source code will be never released due to the potential of abuse. I do not want my program to be abused by threat actors to cause problems. I am making this GitHub as a documentation for my project.
 
+Watch BatRAT 3.0 sample tests vs popular anti-malware softwares 
+
+https://www.youtube.com/watch?v=D2AqIBZTf0g&list=PLvyNBLtU45u5tOVZhYTY65HhB-_nGV-Ci
+
 ---
 
 ## 🔑 How does it work?
